@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveenadnu
+- 👋 Hi, I’m Praveena
 - 👀 I’m interested in java
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on java
